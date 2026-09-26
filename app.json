@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Strictly Scored",
+    "slug": "strictly-scored",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "strictlyscored"
+  }
+}
